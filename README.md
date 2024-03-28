@@ -1,4 +1,4 @@
-# The Wall
+# The Wall <img src="https://raw.githubusercontent.com/5yn1x08/5yn1x08/main/assets/thewall.png" width="35" height="35" alt="error!">
 
 The Wall is a professional and minimalistic application inspired by platforms like Twitter, designed to allow users to express their thoughts and opinions in a succinct manner.
 
